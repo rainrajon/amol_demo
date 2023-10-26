@@ -4,7 +4,7 @@ def factorial(n):
   else:
     return n*factorial(n-1)
 
-num=15
+num=5
 fact_result=factorial(num)
 print(f"The factorial of {num} is {fact_result}")
-print("Hello prajwal you can show this to amol!!!!")
+print("Hello prajwal you can show this to amol and cithravel!!!!")
