@@ -11,11 +11,11 @@ steps:
     sudo apt install -y python3
  
     # Clone your GitHub repository
-    git clone https://github.com/Pankaj111777/Python_Codes.git
+    git clone https://github.com/rainrajon/amol_demo.git
  
     # Change directory to your repository
     # cd your-repo
  
     # Run the Python script
-    python3 Sample_code.py
+    python3 demo_python.py
   displayName: 'Run Python Script'
