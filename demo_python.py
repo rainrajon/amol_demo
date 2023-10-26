@@ -4,7 +4,7 @@ def factorial(n):
   else:
     return n*factorial(n-1)
 
-num=int(input("Enter a number:"))
+num=15
 fact_result=factorial(num)
 print(f"The factorial of {num} is {fact_result}")
 print("Hello prajwal you can show this to amol!!!!")
